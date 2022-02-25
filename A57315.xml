@@ -1,0 +1,622 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true prospect for the bishops, priests &amp; deacons and all other within the jurisdiction of the Church of England who are professors of the common prayer, through which they may see how far they are short in faith, principle and practice of divers sound truths therin specified : also the proper right of the Quakers to divers good things therein vindicated and pleaded for ... / published by Ambrose Rigg.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57315</idno>
+            <idno type="STC">Wing R1499</idno>
+            <idno type="STC">ESTC R25100</idno>
+            <idno type="EEBO-CITATION">08758712</idno>
+            <idno type="OCLC">ocm 08758712</idno>
+            <idno type="VID">41745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1268:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true prospect for the bishops, priests &amp; deacons and all other within the jurisdiction of the Church of England who are professors of the common prayer, through which they may see how far they are short in faith, principle and practice of divers sound truths therin specified : also the proper right of the Quakers to divers good things therein vindicated and pleaded for ... / published by Ambrose Rigg.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated: Ambrose Rigge, 22 day of the 4th month, 1663.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41745:1"/>
+            <pb facs="tcp:41745:1"/>
+            <p>A true Proſpect For the BISHOPS, <hi>Prieſts</hi> and <hi>Deasons.</hi>
+            </p>
+            <p>And all other within the jurisdiction of the Church of <hi>England,</hi> who are Profeſſors of the <hi>Common Prayer,</hi> through which they may ſee how far they are ſhort in Faith, Principle and practiſe of di<g ref="char:EOLhyphen"/>vers ſound truths therein ſpecified.</p>
+            <p>Alſo the proper right of the <hi>Quakers,</hi> to divers good things therein vindicated and pleaded for, which no other people upon the earth can juſtly challenge.</p>
+            <p>And inſtead of being perſecuted, the Quakers ought to be protected by the Laws of King <hi>Edward</hi> the ſixt Queen <hi>Eliz. Charles</hi> the 1ſt. and <hi>Charles</hi> the Second, which eſtabliſhed the book of <hi>Common-Prayer,</hi> in Equity and Right Reaſon, which is the life of all juſt Lawes.</p>
+            <p>VVhereunto is annexed divers of the Prieſts practiſes, for which they have no proof in the Scripture.</p>
+            <p>Publiſhed by a lover of truth and Righteouſneſs where ever it ap<g ref="char:EOLhyphen"/>pears, known by the name of <hi>Ambroſe Rigg.</hi>
+            </p>
+            <q>
+               <hi>And this is the confidence that we have in God, that if we aske any thing according to his will, he heareth <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <bibl>John 5. 14.</bibl>
+            </q>
+            <q>
+               <hi>But let him aske in Faith nothing wavering for he that wavereth is like a Wave of the Sea, driven with the winds, and to ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</hi> 
+               <bibl>Jam. 1. 6.</bibl>
+            </q>
+            <q>
+               <hi>For let not that man think that he ſhall receive any thing from God,</hi> 
+               <bibl>Verſe 7.</bibl>
+            </q>
+            <p>Printed for. M. W.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41745:2" rendition="simple:additions"/>
+            <head>To the moderate and Courteous READER,</head>
+            <p>MY principle end and aime in this ſmall Treatiſe, is to ſet forth, and vindicate the ſound and antient Truth in the <hi>Common-Prayer Book,</hi> as it is now eſtabliſhed, and to bring the ſame forth, as the Sun from under the Clouds, that they may ſhine in brightneſs to the ends of the earth<g ref="char:punc">▪</g> which thou wilt find true, if thou reade over this ſmall book with a ſingle eye, and not ſtumble at my plain down-right dealing, with the men who ſo much cries up that book at this day, and yet cannot away with thoſe who anſwers the ſame in life and practiſe, even every particular thereof, which is gathered out of the Scriptures; and onely denies thoſe things, and them for practiſing thoſe things, which are not taken out of the Scripture, wherein doth lye the great difference between them at this day, wherein the Lord is bringing to light many things which long hath laid hid and vaild in ſecret, and is revealing the My<g ref="char:EOLhyphen"/>ſteries of his Kingdome unto his ſons and daughters, ſervants and hand<g ref="char:EOLhyphen"/>maids: And all Superſtition, and ſuperſtitious Ceremonies<g ref="char:punc">▪</g> he will ut<g ref="char:EOLhyphen"/>terly deface and demoliſh<g ref="char:punc">▪</g> though never ſo ſtrongly fortified outwardly, and will ſet up his own righteouſneſs and way of worſhip, which is in ſpi<g ref="char:EOLhyphen"/>rit and truth according to the teſtimony of his Son in former Ages. <hi>Iohn</hi> 4. 24. In which alone he will manifeſt his love, power, preſence, and vertue, unto mankind again in the way of their recovery from the ſnares of death and darkneſs, under which their ſouls have long mourned, that they may ſet forth his noble Acts, and declare his wondrous works unto generations to come. And for this cauſe he hath raiſed up many at this day to teſtifie unto his Name and power, and is leading them from one Nation to another people <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> teſtimony unto his Son who is come into the world to ſave ſinners and to finiſh tranſgreſſion in the earth, that his praiſe may be perfected among the Sons of men, and he will ſuffer one Potſhard of the earth to daſh in pieces another, until this be accompliſhed, and no weapon formed againſt this decree ſhall proſper, for this is that cauſe for which he ever appeared in any age and time whatſoever, and
+<pb facs="tcp:41745:2"/>
+for which he hath manifeſtly appeared in divers manners in this our age, and hath overturned many high Mountains of the earth that he might fully vindicate his own truth where ever it appeareth without re<g ref="char:EOLhyphen"/>ſpect to rich or poor, bond or free, male or female, high or low, but in e<g ref="char:EOLhyphen"/>very Nation they who fear him and work righteouſneſs he will accept, that no fleſh may glory before him who is rich in mercy, and tender in compaſſion, to all who early ſeek his face inrighteouſneſs.</p>
+            <p>Therefore be not raſh, nor inconſiderate in theſe things which are of great moment, but weigh every ſentence in the ballance of equity, ſo wilt thou come to a right underſtanding of the truth herein declared.</p>
+            <p>And my end is not in this treatiſe that the Prieſts who ſo groſly abu<g ref="char:EOLhyphen"/>ſes their own principles and Prayers, ſhould be deſtroyed with a carnal weapon, (for my weapon to them is not carnal) but that they may come to repentance, and find mercy with the Lord, and that the people may be truly founded upon the Rock of Ages, never more to ſlide nor fall: and for this doth my ſoul travail in ſuffering and heavineſſe even to this day, waiting for the promotion of that truth ſpoken of in the book of <hi>Com<g ref="char:EOLhyphen"/>mon Prayer,</hi> which the Scriptures of the Prophets, Chriſt and the A<g ref="char:EOLhyphen"/>poſtles bears witneſs unto, in patience induring all things till the words of God be fulfilled.</p>
+            <closer>
+               <dateline>
+                  <hi>written</hi> 
+                  <date>the 22. <hi>day of the</hi> 4th. <hi>month</hi> 1663.</date>
+               </dateline>
+               <signed>Who am a lover of Righteouſneſſe and truth, and a ſufferer for the ſame, <hi>Called, Ambroſe Rigge.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>A true proſpect for the Biſhops, Prieſts and Deacons, and all other within the Juriſdiction of the Church of <hi>England, &amp;c.</hi>
+            </head>
+            <p>GOd who in the beginning made man upright in his own image and likeneſs, and gave him life and dominion over death and darkneſs, and the power thereof, making him an inſtrument to ſhew forth his praiſe and glory in the earth, far above any other living creature which his hand made. In which dominion and life while man ſtood, he had the bleſſing and preſence of Almighty God upon him, and with him, and had perfect dominion over all the Beaſts of the field, and the Fowls of the Aire, and knew no ſin, neither curſe,
+<pb n="4" facs="tcp:41745:3"/>
+death nor darkneſs, but ſtood in perfect freedome as the ſon and heir of God, in whom God had more delight then any other crea<g ref="char:EOLhyphen"/>ture which he made, inſomuch that he ſet him in that place in which his chiefeſt delight was, that he might dreſs it and keep it, for his Creator to walk in, where alſo was the tree of life which yielded food to man, ſo that he was altogether unſencible of any miſery, ſor<g ref="char:EOLhyphen"/>row, or tribulation of body, or ſoul; neither was he in bondage to any creature, but Lord and Ruler over all the whole creation accor<g ref="char:EOLhyphen"/>ding to the word of the Lord, <hi>Gen.</hi> 1. 28. in which free covenant of life he perfectly ſtood till the Serpent grudged his glory, and in the envy ſowed a curſed ſeed which took root in his heart, ſince which time hath brought forth many wicked branches which hath long cumbred the ground.</p>
+            <p>And for receiving this and diſobeying the word of the Lord, he was diſthroned from all his glory, and was expoſed to all miſery, and curſedneſs of body and ſoul, with all his ſeed end race after him, and was driven into the earth from the preſence of the Lord, and then was altogether unſencible of life and immortallity with God, it being wholly departed from him by reaſon of tranſgreſſion, ſo that he was only a ſlave in Satans kingdome, wholly led captive at his will, where death and darkneſs only was, which got dominion over him, and then he became a degenerate plant of a ſtrange Vine unto God, and brought forth fruit in which God had no delight, therefore he hid his face from him, ſo that man could not find him nor his power and glory.</p>
+            <p>Then the Lord in love and tender compaſſion to his ſtock and race, did raiſe up <hi>Moſes</hi> his faithful ſervant to teſtifie unto his righ<g ref="char:EOLhyphen"/>teouſneſs, though one not elloquent but of a ſlow ſpeech, as he him<g ref="char:EOLhyphen"/>ſelf teſtifieth <hi>Exod.</hi> 4. 10. yet him he choſe to go unto <hi>Pharaoh</hi> King of <hi>Egypt,</hi> to declare his power and glory to man again, from which he was ſeperated by tranſgreſſion, by whom he gave forth his righteous Law, <hi>John</hi> 1. 17. as a flaming ſword which turned every way upon man in his fallen ſtate under the power of which he was to remain, till the promiſed ſeed was come to break the head and power of the Serpent, which had thus captivated man unto his will, as is aboveſaid<hi>:</hi> For the recovery of which the Lord raiſed up many faithful witneſſes to teſtify unto his power, as <hi>Iſaiah Ier. Ezeck. Dan.</hi>
+               <pb n="5" facs="tcp:41745:3"/>
+and the reſt, yet in their dayes did the falſe Prophet appear who vi<g ref="char:EOLhyphen"/>olated the Law which <hi>Moſes</hi> had given forth and ſought for their gain from their quarter as many do now, and could never have e<g ref="char:EOLhyphen"/>nough <hi>Iſa.</hi> 56. 11. and <hi>Ieremiah</hi> cryed, woe unto the Paſtors that did deſtroy and ſcatter the ſheep of the Lords paſture, who cryed peace unto them who deſpiſed the Lord as ſuch doth now, <hi>Ier.</hi> 23. 1. 17. and <hi>Ezek.</hi> ſaid they fed of the fat, and cloathed of the wooll, but they killed them that were fed, unto ſuch he cryed woe, <hi>Ezek.</hi> 34. 1. 2. 3. and <hi>Hoſea</hi> ſaid, they were like troops of robbers <hi>Hoſea</hi> 6. 9. and <hi>Micha</hi> ſaid, <hi>they built up</hi> Zion <hi>with blood, and Ieruſalem with iniquity,</hi> Micha 3. 11. 12. and ſaid <hi>the beſt of them was as a bry<g ref="char:EOLhyphen"/>er, and the moſt pureſt of them ſharper then a thorn hedge,</hi> Mic. 6. 4. and Chriſt ſaid in <hi>Matt.</hi> 7. <hi>Do men gather grapes of Thornes?</hi> for ſo he deſcribed the falſe Prophets who did rent and tear the wooll from his Lambs which he had choſen, even as they do at this day, bearing the ſame mark as the ſame doth at this day; and for this purpoſe was the Son of man manifeſted to convince man of all his ungodly deeds, words and thoughts, and to make him an inſtrument of his glory again, and to reſtore him into that freedome which he loſt by tranſgreſſion out of the curſe, death and darkneſs into which he was caſt, and for the full perfecting of this great work did the Son of God lay down his life, which life after it was offered up was mani<g ref="char:EOLhyphen"/>feſted in mortal fleſh, and raiſed up many from the Graves in which they had long laid dead, by reaſon of ſin, and by the vertue thereof many was brought into unity with God, and the full enjoyment of his preſence again, as man had before he fell, and was more then conquerors over death, darkneſs, and him that had the power there<g ref="char:EOLhyphen"/>of, though into this ſtate they came through many and great tribu<g ref="char:EOLhyphen"/>lations, which they ſuſtained from them in whom the ſeed of en<g ref="char:EOLhyphen"/>mity did rule, who alwaies hated and perſecuted them wherever they appeared, as a cloud of witneſſes in the Scripture of truth doth teſtify hereunto.</p>
+            <p>In that eſtate did the ſerpent appear as a beaſt having great pow<g ref="char:EOLhyphen"/>er, and made war with the Lamb and the Saints of the moſt high and overcame them, <hi>and power was given unto him over all kindreds, tongues and nations,</hi> Rev. 13. 7. to impoſe what kind of worſhip as he would, then he ſet up the whore ſpoken of in <hi>Rev.</hi> 17. who made
+<pb n="6" facs="tcp:41745:4"/>
+all Nations drunk with the wine of her fornication, yea the Kings of the earth alſo was made drunk with her cup, <hi>verſe</hi> 2. Since which time all nations hath gone a whoring from the Lord and hath wor<g ref="char:EOLhyphen"/>ſhipped the beaſt, and received his image through impoſition, be<g ref="char:EOLhyphen"/>ing forced by violence into that which the Lord was not found in, ſo then a dark and gloomy night overſpread the whole earth, which endured many generations, in which many ſtumbled and fell, and went aſtray like loſt ſheep, and were made a prey upon by the Owles of the deſert, who then croppe out and ravened for their bellies and ſought to the Kings of the earth, (who was made drunk as afore<g ref="char:EOLhyphen"/>ſaid) to exerciſe Lordſhip over the conſciences of thouſands, which was granted them, then they invented divers kinds of puniſhments for them who would not worſhip the beaſt and receive his image, <hi>Rev.</hi> 13. 15, 16. till the earth was wholly voyd both of the know<g ref="char:EOLhyphen"/>ledge of God and his power; and then the night came over the earth wherein no man could work, then the Devil wrought in dark<g ref="char:EOLhyphen"/>neſs, and filled the earth with his power and violence, till Popery was fully rooted and ſprung up into many great branches, and brought forth much curſed fruit as fire, faggot inquiſition, racking, and renting of the perſons of men and women to ſet up and maintain the beaſt in his throne, who had got power over all the kindreds of the earth, in which dominion he long ſtood and magnified himſelf in the greatneſs of his ſtrength, ſaying <hi>who is like unto the beaſt, and who is able to make war with him.</hi>
+            </p>
+            <p>In this power he ſtood compleat in this Nation untill the dayes of King <hi>Edward</hi> the 6th. whom the Lord raiſed to do mighty and notable acts againſt this monſter, inſomuch that he utterly aboliſhed his power and worſhip in that way and form as it then ſtood, and erected another more near unto the truth and way of God as he then judged, and called it the <hi>Common Prayer,</hi> which he eſtabliſhed by Law<g ref="char:punc">▪</g> enjoyning all his Subjects to a conformity thereunto, into which the Prieſts readily crept, though ſuch as formerly had read the Maſs becauſe it was like to bring them in ſome gain, yet not<g ref="char:EOLhyphen"/>withſtanding there was a thirſt in thouſands after righteouſneſs, and the way thereof, yea even in the contrivers of the aforeſaid book, though now the Merchants of <hi>Babylon</hi> doth make a trade thereof for diſhoneſt gain, who neither deſireth righteouſneſs nor the way
+<pb n="7" facs="tcp:41745:4"/>
+thereof. So here I ſhall paſs by all the vain Superſtitions in he ſaid book which hath no ground in the ſcriptures, for my principle aim is in this diſcourſe to inſtance only thoſe things which are of weight and concernment, which is the ſound truths laid down and inſerted in this book, which is collected out of the ſcriptures, and many things prayed for in that book which the Prieſts ſay now cannot be received nor attained to, as hereafter I ſhall make appear.</p>
+            <p>So that if any ſhould queſtion us who are called <hi>Quakers,</hi> why we come not to hear them read the Common Prayer, or perſecute us for not hearing of them.</p>
+            <p>Our plea is to ſuch, that foraſmuch as the teachers of this age who reads the Common Prayer doth deny thoſe ſolemne covenants which they cauſe many to take at the firſt receiving of a child into their Congregation, cauſing them to promiſe and vow three things in the childs name.</p>
+            <p>
+               <hi>Firſt that he ſhall forſake the Devil and all his works, and all the ſin<g ref="char:EOLhyphen"/>ful luſts of the fleſh,</hi> which covenant they ſay when the child comes of age <hi>he is bound to perform.</hi>
+            </p>
+            <p>And we find by dayly experience that when the child comes of age, the Prieſt tells him that he cannot forſake all the Devils works, but muſt have a body of ſin while he is upon the earth, as they com<g ref="char:EOLhyphen"/>monly do, which is abſolutely contrary to their promiſe and vow in Baptiſme, and therefore we deny them as Covenant-breakers, and turn away from them according to the Apoſtles command 2 <hi>Tim.</hi> 3.</p>
+            <p>Our ſecond plea is, that notwithſtanding they injoine the Godfa<g ref="char:EOLhyphen"/>thers and Godmothers (as they call them) <hi>to promiſe and vow that the child ſhall keep Gods will and Commandements, and walk in the ſame all the daies of his life:</hi> and afterward in their preaching ſaith, it is impoſſible to keep Gods holy will and Commandements, as many can witneſs, but break them every day in thought word and deed as they commonly ſay. And therefore we turn away from ſuch confuſion in wich they (as <hi>Babylons</hi> Merchants) are dayly found an<g ref="char:EOLhyphen"/>ſwering the word of the Lord, which ſaith, <hi>Come out of her my peo<g ref="char:EOLhyphen"/>ple, be not pertaker of her ſins, leaſt you pertake of her plagues;</hi> and we finding them ſo groſly overthrowing the foundation principles of the Church of <hi>England</hi> by their preaching and practiſe, that we are neither bound by the law of God, nor right reaſon to uphold or fol<g ref="char:EOLhyphen"/>low them.</p>
+            <p>
+               <pb n="8" facs="tcp:41745:5"/>
+Yet nevertheleſs though we deny them for abuſing their own principles and duties which in words they proſeſs and vow to perſue, yet we retain that pure principle in life and practiſe, which brings young and old to forſake the Divel and all his works, with all the ſinful luſts of the fleſh, which can never be performed or kept by the carnal man in his will, though he may promiſe and vow to do it, neither have we attained to the performance of this while we fol<g ref="char:EOLhyphen"/>lowed them; but as we received that which diſcovered their confu<g ref="char:EOLhyphen"/>ſion unto us; and we ſtanding in this principle at this day which the Lawes of King <hi>Edward,</hi> Queen <hi>Eliza. Charles</hi> the 1ſt. and <hi>Charles</hi> the 2d. doth protect, we ought not by right reaſon to be perſecuted but rather the Prieſts, who dayly confound this principle, which gives every Infant admittance into the Church of <hi>England</hi> to be a member thereof.</p>
+            <p>2. We retain that which brings us to keep Gods holy will and Commandements, which is Gods love ſhed abroad in our hearts, and by this doth many know that we love him becauſe we keep his Commandements, <hi>and his Commandements are not grievous but joy<g ref="char:EOLhyphen"/>ous,</hi> Joh. 14. 15. Therefore it is contrary to right reaſon that we ſhould ſuffer for keeping theſe principles pure and inviolable, which the Church of <hi>England</hi> impoſes upon every Infant, while their own teachers in doctrine and practiſe are oppoſers of theſe principles, in affirming that no man on this ſide the Grave can keep Gods will and Commandements, but muſt have a body of ſin while they live, through which the Commandements of God is broken every day, witneſs their dayly outcry againſt perfection in this life, which the aforeſaid principles holds forth, for he who forſakes the Divel and all his works, and all the pomps and pleaſures of the world, and all the ſinful luſts of the ſame, and keeps Gods holy <note place="margin">mark that</note> will and Commandements and walks in the ſame all the <note place="margin">Mark that alſo</note> dayes of his life, is not ſuch a perfect man all the dayes of his life? and if ſo, is not this contrary to the Prieſts Doctrine who dayly affirme the contrary, therefore let any rational man judge whether we or they ought to ſuffer by the Kings lawes.</p>
+            <p>Furthermore our plea is againſt them in this thing, in cauſing men and women to promiſe and vow ſuch things as aforeſaid, which cannot be performed, and ſo layes heavy burthens upon them,
+<pb n="9" facs="tcp:41745:5"/>
+which they themſelves are ſo far from touching, that they cry out it is impoſſible to be born, and ſo makes them truce-breakers, and teaches the children to call ſuch Godfathers and Godmothers, which is not ſo, for they are neither the childrens God nor their fa<g ref="char:EOLhyphen"/>ther, nor mother, neither hath their God a father or a mother. So this thing we cannot but deny them in, becauſe we beleive it is not of God, neither do we read that any of the ſons or daughters of God in the Scripture of truth did uſe ſuch ſayings, nor the Miniſters of the Goſpel impoſe ſuch things upon any in their infancy; but if any aske how this was inſtituted firſt, and how theſe Miniſters came by ſuch things who now uſe them, my anſwer is according to the antient writers.</p>
+            <p>In the year of the world 4102. and of Chriſt 142. being the firſt year of the reigne of <hi>Anthonius</hi> the Emperor, was <hi>Iginus</hi> conſecra<g ref="char:EOLhyphen"/>ted Pope, he reigned four years three moneths and ſix daies, he or<g ref="char:EOLhyphen"/>dayned that every child in Baptiſme ſhould have a Godfather and a Godmother ſtanding at the Font, and ſo likewiſe at the time of con<g ref="char:EOLhyphen"/>firmation.</p>
+            <p>Therefore we not finding ſuch a practiſe warranted by the Scrip<g ref="char:EOLhyphen"/>ture, but invented by the Pope as aforeſaid, we cannot own it nor them in it, or think it to be requiſite to ſalvation, nor beleive it is of God at all, but a blind ceremony ſet up in the invention of man, and practiſed by them who cannot keep the commands of God, and therefore is not to be required of any man according to the <hi>6th.</hi> Ar<g ref="char:EOLhyphen"/>ticle of the book of Canons in theſe words.</p>
+            <p>
+               <hi>Holy Scripture containeth all things neceſſary to Salvation, ſo that whatſoever is not contained in the Scriptures nor may be proved thereby, is not to be required of any man that it ſhould be beleived as an Article of the faith or to be thought requiſite or neceſſary to ſalvation.</hi>
+            </p>
+            <p>
+               <hi>Likewiſe in the 20th. Article.</hi>
+            </p>
+            <p>The Church hath power to decree Rites and Ceremonies of faith, and yet it is not lawful for the Church to ordain any thing that is contrary to Gods word written, neither may it ſo expound one place of Scripture that it be repugnant to another, wherefore although the Church be a witneſs and a keeper of holy writ, yet it ought not to decree any thing againſt the ſame, ſo beſides, the ſame ought not to inforce any thing to be beleived for neceſſity of ſalvation.</p>
+            <p>
+               <pb n="10" facs="tcp:41745:6"/>
+               <hi>Likewiſe in the</hi> 21. <hi>Article of the Canons.</hi>
+            </p>
+            <p>General counſels may not be gathered together without the Commandement and Writ of Princes, and when they be gathered together, foraſmuch as they be an aſſembly of men, whereof all be not governed by the ſpirit and word of God, they may erre, and ſometimes have erred even in things appertaining to God, where<g ref="char:EOLhyphen"/>fore things ordained by them as neceſſary to ſalvation, have nei<g ref="char:EOLhyphen"/>ther ſtrength nor Authority unleſs it may be declared that they be taken out of the holy Scriptures.</p>
+            <p>Therefore this invention of ſprinkling Infants, with Godfathers and Godmothers, being not taken out of the Scripture neither can be proved thereby, hath no ſtrength nor Authority, neither is to be beleived as requiſite to ſalvation, but is judged, deemed and ta<g ref="char:EOLhyphen"/>ken to be an error firſt of Pope <hi>Iginus,</hi> and ſince of the general counſels according to the aboveſaid Articles,</p>
+            <p>Furthermore our plea is that foraſmuch as the contrivers and ſet<g ref="char:EOLhyphen"/>ters forth of the book of Common Prayer, hath collected many good and true ſayings out of the Scripture, and hath put them into divers Prayers, in which they deſire to come into the ſame condition which the holy men of God witneſſed in former ages; of which things the Lord hath made us witneſſes at this day in life and practiſe and in meaſure have obtained of the Lord according to our deſire, haveing asked the ſame in faith without wavering, which are ſet down in di<g ref="char:EOLhyphen"/>vers places of the Common-Prayer book, which the Prieſts and profeſſors of this generation affirmeth can never be obtained while men live, and therefore theſe prayers ſet down in the Common-Prayer-book, and the things prayed for therein is quite contrary to their faith, as hereafter ſhall be made appear.</p>
+            <p>
+               <hi>In the Collect upon the Circumciſion of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>They pray to God to grant them the true Circumciſion of the ſpirit, that their hearts and all their members may be mortified from all world<g ref="char:EOLhyphen"/>ly and carnal luſts, and that they may in all things obey Gods bleſſed will,</hi> &amp;c.</p>
+            <p>Now let the wiſe in heart judge of this thing whether they do beleive that their hearts and all their members can be mortified from all worldly and carnal luſts, and whether they can in all things obey Gods bleſſed will while they are upon the earth? for after it is impoſſible they ſhould, and if they beleive they can, why are the
+<pb n="11" facs="tcp:41745:6"/>
+Quakers perſecuted for being of the ſame faith and praying for the ſame things, but if they beleive theſe things cannot be attained, then what is their prayers worth, <hi>For whatſoever is not of faith is ſin. Rom.</hi> 14. 23. So theſe good deſires are turned into ſin by this faithleſs ge<g ref="char:EOLhyphen"/>neration of teachers, who inſtead of propagating theſe prayers they are found depravers of them, but the <hi>Colloſſians witneſſed the body of ſin put off by the circumciſion of Chriſt,</hi> Coll. 2. 11. So whether the Apoſtles teſtimony or the Prieſts teſtimony is according to the Scripture let the honeſt heart judge.</p>
+            <p>
+               <hi>In the Collect for the firſt Sunday in Lent.</hi>
+            </p>
+            <p>
+               <hi>They pray to God to give them grace to uſe ſuch abſtinance, that their fleſh being ſubdued to the ſpirit they may ever obey his godly mo<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>Herein they ſeem to own the ſpirits motion in words, which they do, and have ſo long cried againſt, ſcoffing and ſcorning them who witneſs this ſpirit to lead them, calling it error and Hereſy in the Quakers thus to affirme, though they read theſe things dayly in their aſſemblies, yet they do not mean that ever they ſhall come to paſs, for if people were ſubdued to the ſpirit, and came to obey the Godly motions thereof they know people would ſoon leave them as the Quakers have done, ſo whether the Quakers or them are ene<g ref="char:EOLhyphen"/>mies to thoſe good things in the Common-Prayer, let ſober mind<g ref="char:EOLhyphen"/>ed people judge.</p>
+            <p>
+               <hi>In the Collect for the third Sunday after Eaſter.</hi>
+            </p>
+            <p>
+               <hi>They affirme that God ſheweth to all that be in error the light of his truth to the intent they may return into the way of righteouſneſſe.</hi>
+            </p>
+            <p>This is moſt true, and that which the Quakers from the begin<g ref="char:EOLhyphen"/>ning have teſtified of for which they are and have been all along op<g ref="char:EOLhyphen"/>preſſed and perſecuted, for if men that be in error be lighted with the light of Gods truth which is Chriſt, and that to the intent they may return into the way of righteouſneſs; then they who turnes people to this light, turns them into the way of righteouſneſs, but they who inſtead of turning people to this light cries againſt it, and keeps people from following of it, ſuch doth not bring people into the way of righteouſneſs as we ſee by dayly experience, and ſo are not promoters of the truth in the Common-Prayer book, though for their own gain they may read it outwardly, yet it is manifeſtly ſeen that theſe blind guides are more for the promoting of Superſtitious
+<pb n="12" facs="tcp:41745:7"/>
+Ceremonies in the ſaid book which hath no ground nor proof in the Scripture, and ſo by the 20. and 21 Article of the book of Canons is declared to be of no force nor ſtrength; yea far more then the teſti<g ref="char:EOLhyphen"/>fying and vindicating the ſound fundamental truths therein, which is collected out of the Scripture of truth which the Quakers both own and practiſe in life, doctrine, and converſation; which light being followed and regarded would lead people to life and ſalvati<g ref="char:EOLhyphen"/>on, if it were not eclipſed and veiled through theſe faithleſs genera<g ref="char:EOLhyphen"/>tion of men, who ſeeks to take away the Key of Knowledge which is the true light of Chriſt the truth, <hi>wherewith he hath lighted every man that cometh into the world,</hi> John 1. 9. and ſo will neither enter themſelves nor ſuffer them that would, ſo let any judge whether the Quakers or the Prieſts ought to be protected by the Lawes of King <hi>Edw.</hi> the ſixt Queen <hi>Eliza.</hi> King <hi>Iames,</hi> and King <hi>Charles,</hi> and whether of them lives more in obedience to the ſound fundamen<g ref="char:EOLhyphen"/>tal truths in the Common-Prayer book.</p>
+            <p>
+               <hi>In the Collect for Whitſunday.</hi>
+            </p>
+            <p>They ſay, <hi>God hath taught the hearts of his faithful people by the ſending to them the light of his holy ſpirit, and they deſire by the ſame ſpirit to have a right judgement in all things.</hi>
+            </p>
+            <p>If this affitmation be true as certain it is, then what need hath people of their teachings, unleſs it be to keep them in blindneſs of heart from the dictates of this ſpirit, whereby the hearts of his faith<g ref="char:EOLhyphen"/>ful people is taught according to this Collect, which is agreeable to the Scripture, which ſaith, <hi>All thy children ſhall be taught of the Lord,</hi> Iſa. 54. 13. Joh. 6. 54. And again the Apoſtle ſaith to confirme this, <hi>The grace of God which bringeth ſalvation hath appeared to all men teaching us, &amp;c.</hi> Titus 2. 11. 12. all which the Quakers own and witneſs, and therefore they deny them who denies theſe things, and would have people ever learning of them, that they may ever feed them with money, and if people have a right judgement in all things by the holy ſpirit of God according to this collect, then they who are againſt this ſpirit in its teachings and leadings, muſt of neceſſity have no right judgement in any thing, and this the Prieſts hath manifeſtly appeared againſt both in word and righting; and there<g ref="char:EOLhyphen"/>fore let their own Common-Prayer book be a witneſs between them and us, whether we or they walks more according thereunto in doctrine and converſation.</p>
+            <p>
+               <pb n="13" facs="tcp:41745:7"/>
+               <hi>In the Communion upon the Feaſt of Trinity.</hi>
+            </p>
+            <p>They pray <hi>that their ſinful bodies may be made clean by the body of Christ and their ſouls waſhed through his pretious blood, and that they may evermore dwell in him and he in them, &amp;c.</hi>
+            </p>
+            <p>Here again is that confeſſed in words and prayed for, which the Quakers hath long travelled and laboured to ſee accompliſhed, who hath been long cried againſt as abſurd and Heretical (for affirming that they dwelt in Chriſt and he he dwelt in them, which is no more then this Collect plainly holds forth, and for ſaying they were wa<g ref="char:EOLhyphen"/>ſhed by his pretious blood) by the chief Prieſts and Rulers of this generation as many can witneſs, yet they themſelves can confeſs ſuch things in words though in works they wholly deny them, and not onely ſo but ſtirs up the Rulers to perſecute all thoſe who pra<g ref="char:EOLhyphen"/>ctiſe the ſame in life and converſation, if they will not bow to every ceremony which they have woven in amongſt the ſound truths which will remain for ever as living witneſſes againſt them and their Idols: And therefore the Quakers do own what is truth in the Common-Prayer, and what is collected out of the Scripture of truth, which they practiſed and lived in and ſuffered for, when they who now ſo highly magnifies the Common-Prayer, durſt not ſhew themſelves, but now for their own bellies extols that which they will as much cry againſt if another thing ariſe.</p>
+            <p>
+               <hi>In their Prayer before ſprinkling of Infants.</hi>
+            </p>
+            <p>They pray, <hi>That all carnal affections may dye in them, and that all things belonging to the ſpirit may live and grow in them, and that the new man may be raiſed up in them.</hi>
+            </p>
+            <p>In this Prayer is ſeveral good things, if rightly applyed and under<g ref="char:EOLhyphen"/>ſtood, but whether they now who are Minſters and hearers of the Common-Prayer, either knowes what they ask or beleives that ever they ſhall receive what they pray for, is greatly queſtionable, their principles being ſo much for a body of ſin, to be in young and old, while they live on the earth, which is not death but life to all car<g ref="char:EOLhyphen"/>nal affections, and death to all things belonging to the ſpirit, and to the raiſing up of the new man, which cannot be raiſed up in any nor put on, but as the old man is put off with his deeds which is the bo<g ref="char:EOLhyphen"/>dy of ſin.</p>
+            <p>
+               <hi>In their Prayer for Sunday.</hi>
+            </p>
+            <p>
+               <hi>They deſire the Lord to grant them his holy ſpirit, to bear witneſſe with</hi>
+               <pb n="14" facs="tcp:41745:8"/>
+               <hi>their ſpirits, that they being his children and heirs of his kingdome, and that by the operation of the ſame ſpirit they may kill all carnal luſts and unlawful pleaſures concupicences and evil affections contrary to his will.</hi>
+            </p>
+            <p>What man or people can be more perfect before the Lord then they who come to attain all thoſe things here deſired, which is the higheſt degree of perfection, for if all carnal luſts and unlawful plea<g ref="char:EOLhyphen"/>ſures, concupiſſences and evil affections be killed, the ground and root of all <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n is killed, and there can be no more living in ſin, nor branches of the ſame, for where the root of ſin is killed, the bran<g ref="char:EOLhyphen"/>ches cannot remain, but if many in this age who now reads over theſe prayers, would but recollect their memories, they would per<g ref="char:EOLhyphen"/>ceive that thoſe prayers is not ſutable to their faith, <hi>and ſo cannot be an acceptable ſacrifice to God out of their mouthes, Prov.</hi> 15. 8. and 27. neither can they ever receive thoſe things they pray for unleſs they had more faith in the asking of them, ſo whether the Quakers or they have more right to thoſe Prayers, let them who beſt knowes their lives and doctrines only judge.</p>
+            <p>
+               <hi>In their prayer for the morning.</hi>
+            </p>
+            <p>
+               <hi>They deſire Chriſt to take them into his tuition ruling and governing them with his holy ſpirit, that all manner of darkneſs and all carnal affections may be utterly chaſed and driven out of their hearts, and that they may be juſtified and ſaved both in body and ſoul.</hi>
+            </p>
+            <p>If any ſhould ask one of theſe Metamorphoſed men called Mi<g ref="char:EOLhyphen"/>niſters, if they do beleive that all theſe things deſired can be recei<g ref="char:EOLhyphen"/>ved while they are in the body; they would ſay no (I verily beleive) it is ſo common with them to plead for Satans kingdome to ſtand while people live upon the earth, and ſo hath kept thouſands from being juſtified or ſaved, either in body or ſpirit, as by ſad experience we have ſeen overthrowing the faith of many, through cunning de<g ref="char:EOLhyphen"/>viſed Fables, which hath been more pleaded for then the ſound truths therein preſcribed, for if it be asked any of them for what the Quakers are perſecuted, their anſwer is preſently, becauſe they will not come to Church, nor be conformable to the ceremonies thereof, or ſome ſuch like frivolous thing, which hath no ſtrength nor autho<g ref="char:EOLhyphen"/>rity in it, nor is of ſubſtance to convince any that they err in this, ſo long as they retain the antient, truths declared and teſtified unto in the Scripture of truth which their perſecutors have erred from in principle and practiſe, and therefore the Quakers denies them and
+<pb n="15" facs="tcp:41745:8"/>
+all their inventions, and are come out from among them according to the word of the Lord, <hi>Iſa.</hi> 52. 11. 2 <hi>Cor.</hi> 6. 17.</p>
+            <p>
+               <hi>In another of their Prayers for the morning.</hi>
+            </p>
+            <p>
+               <hi>They deſire Chriſt to ſhine into their minds, that they may not any where ſtumble nor fall into any ſin.</hi>
+            </p>
+            <p>Here is the light within prayed for to guide them out of ſtum<g ref="char:EOLhyphen"/>bling and falling into any ſin, which is a principle that they have cri<g ref="char:EOLhyphen"/>ed againſt this ſeveral years counting it hereſy to acknowledge a light to ſhine in peoples minds to guide them out of ſtumbling, nay they have been ſo far from beleiving that this light would keep them from falling into any ſin, that they have leavened all people with the contrary mind that will beleive them, ſo here again their faith and their Prayers are as much oppoſite one to another as light is to darkneſs, and therefore the Quakers hath good grounds to deny them, they certainly knowing that ſuch ſacrifices did alwayes ſtinck in the noſtrils of the Lord, and though they make many Prayers, he will not hear, <hi>becauſe their hands is full of blood,</hi> Iſa. 1. 14. 15. Pro. 1. 28. Jer. 14. 12. and their fingers is polluted with iniquity, and they can never beleive any other thing but that people muſt conti<g ref="char:EOLhyphen"/>nue in ſin during life, and ſo manifeſts themſelves to be ſuch as <hi>Iames</hi> ſpoke unto, <hi>Ia.</hi> 4. 3.</p>
+            <p>
+               <hi>In their Prayer for Wedneſday.</hi>
+            </p>
+            <p>
+               <hi>They pray that they may overcome the chief enemies of their Souls,</hi> (viz.) <hi>the deſires of the world and the pleaſures of the fleſh and the Sug<g ref="char:EOLhyphen"/>geſtions of the wicked ſpirit according to their promiſe in Baptiſme.</hi>
+            </p>
+            <p>In this prayer is many good &amp; weighty things deſired, if the deſi<g ref="char:EOLhyphen"/>rers had but faith as a grain of Muſtard ſeed, theſe mountains before mentioned would be removed and caſt into the Sea, never more to ariſe, <hi>Mat.</hi> 17. 20. but while they remain in unbeleif they may pray and uſe many vain repetitions as the Hypocrites in former ages did, and have no more anſwer from God then they had, for we know <hi>that God heareth not ſinners, but if any man do his will him he heareth,</hi> John. 9. 31. Now if this Scripture be true what is all theſe mens Prayers worth, who both are ſinners and can never beleive they ſhall be otherwiſe in this life, this is a degree of unbeleif beyond what ever I read of among the Jews, therefore ſuch we can never receive as Miniſters of Chriſt, who hath no more faith in him, but we do re<g ref="char:EOLhyphen"/>nounce them as a faithleſs Generation, who cannot pleaſe God in
+<pb n="16" facs="tcp:41745:9"/>
+theſe their Prayers being not in faith, for without faith it is impoſſi<g ref="char:EOLhyphen"/>ble to pleaſe God, <hi>Heb.</hi> 11. 6, So it is far contrary to juſtice and right reaſon to perſecute us for coming out from ſuch whoſe works declares to all men that their faith is not according to their words, and this is the only cauſe for which we have undergone ſuch afflicti<g ref="char:EOLhyphen"/>ons this many years, and not only that we have or do deny any thing that is ſound truth either in the Common Prayer book as it is now eſtabliſhed, or in any other way of worſhip; for it is not unknown to many thouſands what our lives, practiſes, and principles are, both in things appeartaining to God, and alſo in civil things amongſt men. So it is and will be very ridiculous to perſecute us under the notion of Heriticks when it is ſo manifeſtly contrary.</p>
+            <p>
+               <hi>In another of their Prayers.</hi>
+            </p>
+            <p>
+               <hi>They deſire God to ſhine into their hearts, that the night and darknes of ſin, and the miſts of errors on every ſide driven away, he brightly ſhi<g ref="char:EOLhyphen"/>ning within their hearts, they may all their life ſpace go without ſtum<g ref="char:EOLhyphen"/>bling or offence, and may decently and ſeemingly walk as in the daytime being pure and clean from the works of darkneſs.</hi>
+            </p>
+            <p>Let all who reads over theſe lines with a ſingle eye, judge, how far theſe men are from beleiving what they here deſire, for if men by the light of God ſhining within their hearts can go all their life ſpace without ſtumbling or offence, why is the Quakers perſecuted for holding forth this light for all people to be guided by? do we think that the Common-Prayer Readers of theſe times will own this? if ſo; why do they ſo much condemne it in Pulpit and Preſs? if not, why do they profeſs it with their mouths, when their hearts are ſo far from the beleif thereof? this is but feigned humility and will-worſhip, which is double Hypocriſie; ſo either they muſt deny their own words in all theſe foregoing Prayers, or elſe they muſt ac<g ref="char:EOLhyphen"/>knowledge the Quakers holds more of the ſound truths in the Book of Common-Prayer then they themſelves do in principle and pra<g ref="char:EOLhyphen"/>ctiſe; and therefore for ſhame give over perſecuting of them, and reprove the Prieſts for their confuſion and hypocriſie and unbeleif, that they may repent thereof, if the day of long-ſuffering be not o<g ref="char:EOLhyphen"/>ver, for many hath been turned aſide through their inchantments, from the way of truth and life, which the Lord hath ſet before them: Therefore by the Law of God and the King they are not to be upheld nor protected in their hypocriſie and wil-worſhip, being
+<pb n="17" facs="tcp:41745:9"/>
+utterly repugnant to the ſound truthes in the Common-Prayer book which by law is eſtabliſhed.</p>
+            <p>
+               <hi>In the Collect for the 19th. Sunday after Trinity.</hi>
+            </p>
+            <p>
+               <hi>Wherein they deſire the Lord mercifully to grant that his holy ſpirit may in all things direct and rule their hearts, &amp;c.</hi>
+            </p>
+            <p>This hath been counted abſurd alſo in the Quakers to beleive any ſuch thing as the ſpirit of God to direct and rule their hearts in all things; oh how they have been abuſed by the Prieſts and their fol<g ref="char:EOLhyphen"/>lowers for owing what is prayed for in this Collect; and if it be the mercy of God to grant his holy ſpirit to direct and rule the hearts of his people in all things, then why are ſuch made a prey upon unto whom God hath ſhewed this mercy in giving them his holy ſpirit to direct and rule them in all things, who are not under the Law of God neither hath it power over them, <hi>Gal.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 18. much leſs ought the penalties of the Law of man to be inflicted upon them, yet ſuch now are and in all ages have been oppreſſed by the Lawes, decrees, and conſtitutions of men, who erred from this ſpirit, though they profeſſed it in words, becauſe ſuch who were guided by this ſpirit in all things, could never walk anſwerable to their wills, witneſs the Apoſtles who were guided by this ſpirit, <hi>Acts</hi> 5. 28. 29. witneſs the three children <hi>who was directed with the ſpirit of God,</hi> Dan. 3. witneſs <hi>Mordecai, Eſther</hi> 5. 9. and a cloud of witneſſes more in the Scrip<g ref="char:EOLhyphen"/>tures: So here again the Quakers life and doctrine are anſwerable to the truth here inſerted, and the Prieſts manifeſtly contrary.</p>
+            <p>
+               <hi>In the Collect for the</hi> 21. <hi>Sunday after Trinity.</hi>
+            </p>
+            <p>
+               <hi>Wherein they deſire God to grant unto his faithful people pardon and peace, that they may be cleanſed from all their ſins, and ſerve God with a quiet minde.</hi>
+            </p>
+            <p>Again this is as far from the Prieſts faith as the eaſt is from the Weſt, for if it be poſſible for men to be cleanſed from all their ſins, and ſerve God with a quiet mind according to this Prayer, how will this ſute with the Prieſts doctrine, who ſaith men cannot be cleanſed from all their ſins nor never come to peace here, but muſt be in a continual warfare as long as they live, and conſequently not ſerve God with a quiet mind according to this Collect, I ſuppoſe their faith is much repugnant to this if they were throughly exami<g ref="char:EOLhyphen"/>ned, yet notwithſtanding they make uſe of theſe Prayers and ſenten<g ref="char:EOLhyphen"/>ces now for their gain, and for fear of puniſhment, yet I verily be<g ref="char:EOLhyphen"/>leive
+<pb n="18" facs="tcp:41745:10"/>
+there is not one among 500 of them that beſelves ever to re<g ref="char:EOLhyphen"/>ceive theſe things praied for while they live, for what is counted more abſurd at this day, then for any to beleive that they can be cleanſed from all their ſins, and ſerve God with a quiet mind, yet theſe very men that cries out blaſphemy againſt ſuch (and tell them they need no Saviour as the Prieſts hath often ſaid of the Quakers) will pray for the attainment of theſe things aforementioned<hi>:</hi> there<g ref="char:EOLhyphen"/>fore let all Gods faithful people judge how feigned, formal, Hypocri<g ref="char:EOLhyphen"/>tical and faithleſs their praiers are which can never enter into the ears of the Lord of Sabboths who only hath reſpect unto the righ<g ref="char:EOLhyphen"/>teous and his ear is open to their cry, <hi>Pſal.</hi> 34. 15. <hi>but the face of the Lord is againſt them that do evil, to cut off the remembrance of them from the earth,</hi> ver. 16. If this be true as certain it is then the Prayers of theſe ſinful men are an abominable ſacrifice, which is nei<g ref="char:EOLhyphen"/>ther heard nor regarded by the Lord nor his people, but here alſo let the Quakers and the Prieſts be laid in the ballance together, and ſee whether is more equivolent to Scriptural truth in the Book of Common-Prayer, and then they will ſuddenly ſee whether of theſe ought by law and right reaſon to be upheld and countenanced.</p>
+            <p>
+               <hi>In the Collect for the 6th. Sunday after Epaphany.</hi>
+            </p>
+            <p>
+               <hi>Wherein they deſire God to make them his ſons and heirs of eternal life, and that they having this hope may purifie themſelves even as he is pure, &amp;c.</hi>
+            </p>
+            <p>This is a good deſire indeed, and that which the Lord hath gran<g ref="char:EOLhyphen"/>ted to many at this day, who are now the ſons of God and heirs of life, but who are made more objects of the worlds wrath then ſuch, even by them who are praying for the ſame condition in words, though their works ſhews them to be more like the ſons of Belial, in whoſe ſteps they tread, who are far from being pure as God is pure, neither I do think they ever believe they ſhall, though they pray for the ſame, but are not theſe the principles which the Qua<g ref="char:EOLhyphen"/>kers have been condemned for owning, and counted Hereticks for profeſſing which is now the publick Praiers of this Nation, eſta<g ref="char:EOLhyphen"/>bliſhed by law, all which (as they are taken out of the Scripture) we both have practiſed ſince we were a people, and do at this day if they had never been written in the Common praier book.</p>
+            <p>Object. <hi>But if it be objected that theſe are not principles but good deſires and godly Prayers.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:41745:10"/>
+               <hi>Anſw.</hi> That cannot be a good deſire nor a godly praier wherein the thing deſired cannot be beleived to be obtained, <hi>for whatſoever is not of faith is ſin, Rom.</hi> 14. 23. and therefore the Quakers cannot own them who turns the truth of God in theſe foregoing lines into a lye and ſin, and worſhips they know not what, as it is too too ma<g ref="char:EOLhyphen"/>nifeſt, and therefore the Quakers pleads the general iſſue of all theſe things which (I hope) there is not a rational man who reads the aforegoing paſſages with underſtanding, but will bring in their verdict for them, and againſt the faithleſs prayers of theſe times, yet nevertheleſs theſe men cannot handſomly denie, but all the afore<g ref="char:EOLhyphen"/>ſaid Collects either is or ought to be the ſubſtance of things hoped for; and if they will not own them to be principles, they muſt own them conditions attainable to the children of God, or elſe why do they pray for them, and if ſo then they muſt either own the Qua<g ref="char:EOLhyphen"/>kers Doctrine or deny that part of the Common-Praier, which may be proved by the Scripture, and is taken out of the Scripture, and ſo vindicate none but that part which is neither taken out of the Scripture nor can be proved by the Scripture, which they are moſt ready to do, and alwaies have done, though it is of no ſtrength nor authority nor ought to be forced upon any as neceſſarie to ſalvation as may appear by the 6th. Article of their own Canons, and alſo by the 20. and 21. Articles of the ſame: So whether the Quakers are to be condemned for vindicating that part of the Common-Prayer which is taken out of the Scripture, which hath ſtrength and authori<g ref="char:EOLhyphen"/>tie in it, or the Prieſts for vindicating that part of the Common-Praier which is not taken out of the Scripture nor can be proved thereby is left to the verdict of every judicious man.</p>
+            <p>
+               <hi>Here followeth ſeveral perticulars of the Priests practiſe which is not ta<g ref="char:EOLhyphen"/>ken out of the Scripture nor can be proved thereby, which the Qua<g ref="char:EOLhyphen"/>kers judges of no ſtrength nor authority, neither ought to be forced upon any as neceſſary to ſalvation, as may appear by the</hi> 21. <hi>Article of the book of Cannons.</hi>
+            </p>
+            <p n="1">1. Firſt their ſprinkling Infants with water, and ſigning them with the ſigne of the Croſs in their foreheads, is not taken out of the Scripture nor cannot be proved thereby, therefore it is of no ſtrength nor authority.</p>
+            <p n="2">2. Having Godfathers and Godmothers ſtanding at the Font is
+<pb n="20" facs="tcp:41745:11"/>
+not taken out of the Scripture nor cannot be proved thereby there<g ref="char:EOLhyphen"/>fore of no force.</p>
+            <p n="3">3. Their ſaying that people muſt have a body of ſin as long as they live, cannot be proved by the Scripture, nor is not taken out of the Scripture, therefore is an error in all the beleivers thereof.</p>
+            <p n="4">4. Their ſaying that none can keep the commands of God, is not taken out of the ſcripture, nor can be proved by the ſcripture, here<g ref="char:EOLhyphen"/>in they ſhew they are led by the ſpirit of error.</p>
+            <p n="5">5. Their abſtaining from ſleſh in the time called Lent, is not ta<g ref="char:EOLhyphen"/>ken out of the ſcripture, nor can be proved thereby.</p>
+            <p n="6">6. To read and Preach in a Tippet-hood or ſurplice, is not taken out of the ſcripture, nor can be proved thereby.</p>
+            <p n="7">7. To keep ſo many daies in a year from working, calling them Holy daies, and therein tollerating drunkenneſs, wantonneſs, and plaies, and vice, is not taken out of the Scripture nor can be proved thereby.</p>
+            <p n="8">8. To take a Text of ſcripture and raiſe ſo many arguments and doctrines, reaſons and uſes from it, is not taken out of the ſcripture nor can be proved thereby.</p>
+            <p n="9">9. To erect an Altar in their Church and to bow ſo many times thereunto, is not taken out of the ſcripture nor can be proved there<g ref="char:EOLhyphen"/>by.</p>
+            <p n="10">10. To give bread and wine to people kneeling twice a year is not taken out of the Scripture nor can be proved thereby.</p>
+            <p n="11">11. To have ten ſhillings more or leſs as they can get for a Fune<g ref="char:EOLhyphen"/>ral ſermon (as they call it) is not taken out of the Scripture nor cannot be proved thereby.</p>
+            <p n="12">12. To cauſe women to come into the Steeple-houſe in a white cloath, and to have money for ſpeaking words over them after child birth, is not taken out of the ſcripture nor can be proved thereby.</p>
+            <p n="13">13. To have a Sexton to ring the bells three times before their ſervice, is not taken out of the ſcripture nor can be proved thereby.</p>
+            <p n="14">14. To take ſo much a year of every Pariſh for preaching or rea<g ref="char:EOLhyphen"/>ding is not taken out of the ſcripture nor can be proved thereby.</p>
+            <p n="15">15. To take Tythes and offerings of people for the aforeſaid work, yea of thoſe for which they do no work, cannot be proved by the Scripture.</p>
+            <p>So all the particulars, and many more which now are and have
+<pb n="21" facs="tcp:41745:11"/>
+been uſed &amp; practiſed by the teachers of this generation which they have no ground in the ſcripture for, which hath been ſet up in the night of Apoſtacy from the life and ſpirit of God by the falſe Pro<g ref="char:EOLhyphen"/>phets and Antechriſts, which entred into the world above 1600. years ago, being propheſied of by Chriſt, <hi>Matt.</hi> 7. 15. 16. 17. by their fruits he then ſaid they ſhould be known, comparing them to thorns and thiſtles, of which men cannot gather grapes nor figs, as appears at this day, for neither of theſe can be gathered of theſe falſe Prophets of our age; and are they not inwardly ravening wolves according to Chriſts words, for if any come to receive and follow the light of Gods ſpirit within, to guide them, ſuch they ſeeks to devour with all their ſtrength, though outwardly they will cover themſelves with the ſame words as appears by the aforeſaid Trea<g ref="char:EOLhyphen"/>tiſe, that they may appear outwardly like ſheep, though inwardly they are quite contrary; and in <hi>Matt.</hi> 24. Chriſt ſaid unto his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>When theſe falſe Prophets ſhould ſay, lo, here is Chriſt, and lo there, beleive them not,</hi> and hath not theſe fulfilled his words, who ſometimes hath cried, lo here is Chriſt in the Common-Praier, and then afterwards hath cried, lo there is Chriſt in the Presbiterian-worſhip, and in the Independant worſhip, and hath cried down the Common-praier, as Popiſh and Superſtitious, when the powers of the nation turned againſt it, of which thouſands in this nation are witneſſes, and now they cry lo here is Chriſt again in the Common-praier-worſhip, becauſe it is ſet up by an outward law, but ſtill they are as briers and thorns, through which a Lamb cannot paſs without his wool rent from him and his life ſought for a prey, witneſs, <hi>Leo<g ref="char:EOLhyphen"/>nard Letchfor</hi> of Hurſt Perpoint, <hi>George Butler</hi> of Broadwater, <hi>Rob. Baker</hi> of Rottingden, <hi>Richard wellar</hi> of Warbleton, <hi>Charles Black<g ref="char:EOLhyphen"/>wel</hi> of Stening, <hi>George Vinter</hi> of Coveold, <hi>Henry Hollowel</hi> of Ivil, all Metamorphoſed men called Miniſters in <hi>Suſſex,</hi> with divers others who have been grievous ravenors of the Lambs of Chriſt this ſeve<g ref="char:EOLhyphen"/>ral years laſt paſt, and hath changed out of one ſhape into another, and then back again for their own intreſts; and notwithſtanding they cry up the Common-praier, yet they impriſon and perſecute thoſe who walkes anſwerable to the good things therein contained, becauſe they cannot countenance them in their hipocriſie but are in all things led and guided by the ſpirit of God which alwaies cried, <hi>Woe to ſuch,</hi> Mat. 23. So theſe and others are left to the judgment
+<pb n="22" facs="tcp:41745:12"/>
+of Almighty God who will plead with them for all theſe things, who both hath delivered and will deliver his ſheep from their mouthes, that they ſhall not alwaies make a prey upon them as hitherto they have done, ſo let all ſober people who can but read the Scriptures, judge of the aforeſaid men, whether they are Miniſters of Chriſt or of Antichriſt, who went out into the world with many falſe Pro<g ref="char:EOLhyphen"/>phets in the daies of <hi>Iohn</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s himſelf teſtified, 1 <hi>Iohn</hi> 2. 18. theſe Antichriſts ſought to ſeduce the children of God from the anoin<g ref="char:EOLhyphen"/>ting within them, as they do now, <hi>verſe</hi> 26. 27. of whoſe race theſe are of this age, who though they daily read of the light and ſpirit of God within people in their Common-praiers, yet they would ſe<g ref="char:EOLhyphen"/>duce people from it if poſſible they could, and this teſtimony I was moved of the Lord to give concerning them under whoſe iniquity I do at this time ſuffer, and ſeveral years have done for keeping a good conſcience towards God and all men, as many hundreds of my dear companions have done, and for teſtifying againſt their evil deeds, in which we all remain in patience till the words of God be fulfilled, rejoycing in heart that we are counted worthy to ſuffer for him who is gone before who was made perfect thereby, as we hope to be in the Lords appointed time, who hath cauſed all things to work toge<g ref="char:EOLhyphen"/>ther for good unto us hither to, Bleſſed, praiſed, honoured, be his eternal name, of us and all who know him, henceforth and for evermore.</p>
+            <p>
+               <hi>Here followeth a few words of Exhortation unto all who inha<g ref="char:EOLhyphen"/>biteth in the skirts and Suburbs of</hi> Babylon, <hi>that they may come forth and not partake of her ſins, leaſt they pertake of her judgements. And a ſalutation of Love to the ſeed of God who are come forth already.</hi>
+            </p>
+            <l>
+               <hi>AWake awake ye people all</hi>
+            </l>
+            <l>
+               <hi>And mark what I do ſay,</hi>
+            </l>
+            <l>
+               <hi>This day the Lord to you doth call,</hi>
+            </l>
+            <l>
+               <hi>See you no longer ſtay<g ref="char:punc">▪</g>
+               </hi>
+            </l>
+            <l>
+               <hi>Out from theſe wicked workers come</hi>
+            </l>
+            <l>
+               <hi>While you have day &amp; time,</hi>
+            </l>
+            <l>
+               <hi>That with the Lord you may have room</hi>
+            </l>
+            <l>
+               <hi>And lay down in his arm.</hi>
+            </l>
+            <l>
+               <hi>For he will thorowly avenge</hi>
+            </l>
+            <l>
+               <hi>The wrongs of his Elect,</hi>
+            </l>
+            <l>
+               <hi>Who many years oppreſt have been</hi>
+            </l>
+            <l>
+               <hi>By this ungodly Sect.</hi>
+            </l>
+            <l>
+               <hi>Who for their bellies devoured have</hi>
+            </l>
+            <l>
+               <hi>Both widows and fatherleſs.</hi>
+            </l>
+            <l>
+               <hi>And mightily they do now crave</hi>
+            </l>
+            <l>
+               <hi>To have the life at laſt.</hi>
+            </l>
+            <l>
+               <pb n="23" facs="tcp:41745:12"/>
+               <hi>Of all who will not to them bend</hi>
+            </l>
+            <l>
+               <hi>Their Image to adore</hi>
+            </l>
+            <l>
+               <hi>Their lives they now ſeek for to end</hi>
+            </l>
+            <l>
+               <hi>As did</hi> Herod <hi>before.</hi>
+            </l>
+            <l>
+               <hi>But God will ſave his choſen ſeed</hi>
+            </l>
+            <l>
+               <hi>By his Almighty power,</hi>
+            </l>
+            <l>
+               <hi>And only bring his wrath and dread</hi>
+            </l>
+            <l>
+               <hi>Upon the painted Whore.</hi>
+            </l>
+            <l>
+               <hi>Who from the daies of</hi> Joh. <hi>till now</hi>
+            </l>
+            <l>
+               <hi>She as a Queen hath raignd</hi>
+            </l>
+            <l>
+               <hi>To her all Nations yet hath bowd,</hi>
+            </l>
+            <l>
+               <hi>Who hath not life obtain'd.</hi>
+            </l>
+            <l>
+               <hi>But now's her judgement and her wo</hi>
+            </l>
+            <l>
+               <hi>Appeared in the earth,</hi>
+            </l>
+            <l>
+               <hi>With all her Merchants high &amp; low</hi>
+            </l>
+            <l>
+               <hi>Who muſt now bear Gods wrath.</hi>
+            </l>
+            <l>
+               <hi>And when all theſe things comes to paſs</hi>
+            </l>
+            <l>
+               <hi>Then ſhall they all confeſſe</hi>
+            </l>
+            <l>
+               <hi>That God did give them time and ſpace</hi>
+            </l>
+            <l>
+               <hi>Wherin they might have reſt.</hi>
+            </l>
+            <l>
+               <hi>But they rejecting of his love</hi>
+            </l>
+            <l>
+               <hi>When he invited them,</hi>
+            </l>
+            <l>
+               <hi>So from his preſence they muſt move</hi>
+            </l>
+            <l>
+               <hi>And not return again.</hi>
+            </l>
+            <l>
+               <hi>But oh ye Saints and ſervants all</hi>
+            </l>
+            <l>
+               <hi>Who in Gods houſe doth dwell,</hi>
+            </l>
+            <l>
+               <hi>Let not your hearts and ſpirits fall</hi>
+            </l>
+            <l>
+               <hi>Till God theſe things fulfil.</hi>
+            </l>
+            <l>
+               <hi>Who for the ſake of his Elect</hi>
+            </l>
+            <l>
+               <hi>Theſe things ſhall greatly haſt,</hi>
+            </l>
+            <l>
+               <hi>And all his Lambs he will protect</hi>
+            </l>
+            <l>
+               <hi>Till this be overpaſt.</hi>
+            </l>
+            <l>
+               <hi>He will as greatly now appear</hi>
+            </l>
+            <l>
+               <hi>For his own choſen's ſake,</hi>
+            </l>
+            <l>
+               <hi>As he did in the day and year</hi>
+            </l>
+            <l>
+               <hi>When Iſrael he did ſhake.</hi>
+            </l>
+            <l>
+               <hi>And all his enemies now ſhall</hi>
+            </l>
+            <l>
+               <hi>Both mourn and ſore lament,</hi>
+            </l>
+            <l>
+               <hi>Who long refus'd to hear his call,</hi>
+            </l>
+            <l>
+               <hi>Nor would not then repent.</hi>
+            </l>
+            <l>
+               <hi>Even till his patience wearied was</hi>
+            </l>
+            <l>
+               <hi>His mercy turn'd to ire,</hi>
+            </l>
+            <l>
+               <hi>Such now for ever muſt cry alas</hi>
+            </l>
+            <l>
+               <hi>In the devouring fire.</hi>
+            </l>
+            <l>
+               <hi>Which was prepared of old</hi>
+            </l>
+            <l>
+               <hi>For all that wicked crew,</hi>
+            </l>
+            <l>
+               <hi>Who will not hear when they are told</hi>
+            </l>
+            <l>
+               <hi>That all theſe things are true.</hi>
+            </l>
+            <l>
+               <hi>But in Rebellion hath gone on</hi>
+            </l>
+            <l>
+               <hi>Againſt the Lord of might</hi>
+            </l>
+            <l>
+               <hi>And hath refuſed to be won</hi>
+            </l>
+            <l>
+               <hi>When he did them invite.</hi>
+            </l>
+            <l>
+               <hi>Therefore his patience now ſhal ceaſe</hi>
+            </l>
+            <l>
+               <hi>To all his enemies</hi>
+            </l>
+            <l>
+               <hi>And only judgement ſhall increaſe</hi>
+            </l>
+            <l>
+               <hi>To all eternities.</hi>
+            </l>
+            <l>
+               <hi>But he will bleſs his Heritage</hi>
+            </l>
+            <l>
+               <hi>With happineſs and peace, rage</hi>
+            </l>
+            <l>
+               <hi>And ſave them from the heat and</hi>
+            </l>
+            <l>
+               <hi>Of ſuch as do increaſe.</hi>
+            </l>
+            <l>
+               <hi>In wickedneſs and cruelty</hi>
+            </l>
+            <l>
+               <hi>Upon his children dear</hi>
+            </l>
+            <l>
+               <hi>Who hath reſpect unto their cry</hi>
+            </l>
+            <l>
+               <hi>And their complaint doth hear.</hi>
+            </l>
+            <l>
+               <hi>Therefore ye Plants of Gods renown,</hi>
+            </l>
+            <l>
+               <hi>In faith and patience dwell</hi>
+            </l>
+            <l>
+               <hi>This will preſerve you to the Crown</hi>
+            </l>
+            <l>
+               <hi>In which I ſay farwel.</hi>
+            </l>
+            <p>This was written the 24. day of the <hi>4th.</hi> moneth in the year 1663. By a Brother and companion to all the ſervants of Chriſt who is called</p>
+            <closer>
+               <signed>Ambroſe Rigge.</signed>
+            </closer>
+            <trailer>The END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
